@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,24 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\ItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\ItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\ItemNotFoundException.cs",
+              "RelativeToolTip": "WarehouseApp\\ItemNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T19:06:21.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\InventoryRepository.cs",
+              "RelativeToolTip": "WarehouseApp\\InventoryRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T18:45:00.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GroceryItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\GroceryItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\GroceryItem.cs",
               "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\GroceryItem.cs",
               "RelativeToolTip": "WarehouseApp\\GroceryItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T18:17:57.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ElectronicItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\ElectronicItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\ElectronicItem.cs",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "WarehouseApp\\ElectronicItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T18:12:15.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T18:12:15.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IInventoryItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\IInventoryItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\IInventoryItem.cs",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "WarehouseApp\\IInventoryItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T17:54:46.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T17:54:46.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\Program.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\Program.cs",
