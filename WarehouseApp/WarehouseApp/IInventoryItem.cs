@@ -8,8 +8,8 @@ namespace WarehouseApp
 {
     public interface IInventoryItem
     {
-        public int Id { get; }
-        public string Name { get; }
-        public int Quantity { get; set; }
+         int Id { get; }
+         string Name { get; }
+         int Quantity { get; set; }
     }
 }

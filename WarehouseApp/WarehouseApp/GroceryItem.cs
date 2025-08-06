@@ -6,21 +6,19 @@ using System.Threading.Tasks;
 
 namespace WarehouseApp
 {
-    public class ElectronicItem : IInventoryItem
+    public class GroceryItem : IInventoryItem
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public int Quantity { get; set; }
-        public string Brand { get; set; }
-        public int WarrantyMonths { get; set; }
+        public DateTime ExpiryDate { get; set; }
 
-        public ElectronicItem(int id, string name, int quantity, string brand, int warrantyMonths)
+        public GroceryItem(int id, string name, int quantity, DateTime expirydate)
         {
             this.Id = id;
             this.Name = name;
             this.Quantity = quantity;
-            this.Brand = brand;
-            this.WarrantyMonths = warrantyMonths;
+            this.ExpiryDate = expirydate;
         }
     }
 }
