@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,36 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\ItemNotFoundException.cs",
-              "RelativeDocumentMoniker": "WarehouseApp\\ItemNotFoundException.cs",
-              "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\ItemNotFoundException.cs",
-              "RelativeToolTip": "WarehouseApp\\ItemNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\CustomExceptions.cs",
+              "RelativeToolTip": "WarehouseApp\\CustomExceptions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T19:06:21.652Z"
+              "WhenOpened": "2025-08-07T11:02:13.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "InventoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\InventoryRepository.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\InventoryRepository.cs",
               "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\InventoryRepository.cs",
               "RelativeToolTip": "WarehouseApp\\InventoryRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T18:45:00.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "GroceryItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\GroceryItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\GroceryItem.cs",
@@ -71,11 +72,12 @@
               "RelativeToolTip": "WarehouseApp\\GroceryItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T18:17:57.753Z"
+              "WhenOpened": "2025-08-06T18:17:57.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ElectronicItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\ElectronicItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\ElectronicItem.cs",
@@ -83,11 +85,12 @@
               "RelativeToolTip": "WarehouseApp\\ElectronicItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T18:12:15.584Z"
+              "WhenOpened": "2025-08-06T18:12:15.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IInventoryItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\IInventoryItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\IInventoryItem.cs",
@@ -95,11 +98,12 @@
               "RelativeToolTip": "WarehouseApp\\IInventoryItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T17:54:46.801Z"
+              "WhenOpened": "2025-08-06T17:54:46.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\Program.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\Program.cs",
@@ -107,7 +111,8 @@
               "RelativeToolTip": "WarehouseApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T17:38:57.663Z"
+              "WhenOpened": "2025-08-06T17:38:57.663Z",
+              "EditorCaption": ""
             }
           ]
         }

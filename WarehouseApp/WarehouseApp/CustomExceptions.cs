@@ -8,7 +8,7 @@ namespace WarehouseApp
 {
     // Custom exceptions for the WarehouseApp //
 
-    internal class CustomExceptions
+    public class CustomExceptions
     {
         public class DuplicateItemException : Exception
         {
@@ -20,7 +20,7 @@ namespace WarehouseApp
 
 
     // Invalid quantity custom exception
-    internal class InvalidQuantityException : Exception
+    public class InvalidQuantityException : Exception
     {
         public InvalidQuantityException()
         {
@@ -36,7 +36,7 @@ namespace WarehouseApp
     }
 
     // Item not found  custom exception
-    internal class ItemNotFoundException : Exception
+    public class ItemNotFoundException : Exception
     {
         public ItemNotFoundException()
         {
