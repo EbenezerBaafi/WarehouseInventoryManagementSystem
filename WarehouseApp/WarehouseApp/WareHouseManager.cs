@@ -11,13 +11,21 @@ namespace WarehouseApp
         InventoryRepository<ElectronicItem> _electronics = new InventoryRepository<ElectronicItem>();
         InventoryRepository<GroceryItem> _groceries = new InventoryRepository<GroceryItem>();
 
-        
+        public InventoryRepository<ElectronicItem> Electronics
+        {
+            get { return _electronics; }
+        }
+        public InventoryRepository<GroceryItem> Groceries
+        {
+            get { return _groceries; }
+        }
+
         public void GetData()
         {
             _electronics = new InventoryRepository<ElectronicItem>();
             _groceries = new InventoryRepository<GroceryItem>();
         }
-        public void SeedData()
+        public void SeedData() 
         {
             //Add electronic objects to the inventory
             _electronics.AddItem(new ElectronicItem(1, "Headset", 5, "Oraimo", 12));

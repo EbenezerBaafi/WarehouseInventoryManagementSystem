@@ -1,0 +1,15 @@
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\bin\Debug\net9.0\WarehouseApp.exe
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\bin\Debug\net9.0\WarehouseApp.deps.json
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\bin\Debug\net9.0\WarehouseApp.runtimeconfig.json
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\bin\Debug\net9.0\WarehouseApp.dll
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\bin\Debug\net9.0\WarehouseApp.pdb
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.AssemblyInfoInputs.cache
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.AssemblyInfo.cs
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.csproj.CoreCompileInputs.cache
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.sourcelink.json
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.dll
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\refint\WarehouseApp.dll
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.pdb
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\WarehouseApp.genruntimeconfig.cache
+C:\Users\GADGET STORE\source\repos\WarehouseInventoryManagementSystem\WarehouseApp\WarehouseApp\obj\Debug\net9.0\ref\WarehouseApp.dll

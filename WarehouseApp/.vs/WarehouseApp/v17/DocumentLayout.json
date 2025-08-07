@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|c:\\users\\gadget store\\source\\repos\\warehouseinventorymanagementsystem\\warehouseapp\\warehouseapp\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0004428-D416-409C-BB98-EF1F71B76DA7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "WareHouseManager.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\WareHouseManager.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\WareHouseManager.cs",
               "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\WareHouseManager.cs",
               "RelativeToolTip": "WarehouseApp\\WareHouseManager.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAUwE8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T11:16:53.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomExceptions.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\CustomExceptions.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\CustomExceptions.cs",
               "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\CustomExceptions.cs",
               "RelativeToolTip": "WarehouseApp\\CustomExceptions.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvwoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T11:02:13.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "InventoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\InventoryRepository.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\InventoryRepository.cs",
               "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\InventoryRepository.cs",
               "RelativeToolTip": "WarehouseApp\\InventoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T18:45:00.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GroceryItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\GroceryItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\GroceryItem.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ElectronicItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\ElectronicItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\ElectronicItem.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IInventoryItem.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\IInventoryItem.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\IInventoryItem.cs",
@@ -120,15 +120,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\Program.cs",
               "RelativeDocumentMoniker": "WarehouseApp\\Program.cs",
               "ToolTip": "C:\\Users\\GADGET STORE\\source\\repos\\WarehouseInventoryManagementSystem\\WarehouseApp\\WarehouseApp\\Program.cs",
               "RelativeToolTip": "WarehouseApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T17:38:57.663Z"
+              "WhenOpened": "2025-08-06T17:38:57.663Z",
+              "EditorCaption": ""
             }
           ]
         }
